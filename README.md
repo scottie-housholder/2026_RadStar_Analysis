@@ -6,21 +6,23 @@ Requirements
 
 The included scripts were written with Python v3.13.13 and utilize these libraries:
 
-- Astropy  
-- geopandas  
-- matplotlib  
-- NumPy  
-- pandas  
-- matplotlib  
-- scikit-learn  
-- SciPy  
-- Seaborn  
-- shapely  
-- statsmodels
+- `Astropy`
+- `geopandas`
+- `matplotlib`
+- `NumPy`
+- `pandas`
+- `matplotlib`
+- `scikit-learn`
+- `SciPy`
+- `Seaborn`
+- `shapely`
+- `statsmodels`
 
 You can install them all at once using pip:
 
-```pip install geopandas astropy matplotlib NumPy pandas matplotlib scikit-learn SciPy Seaborn shapely statsmodels```  
+```sh
+pip install geopandas astropy matplotlib NumPy pandas matplotlib scikit-learn SciPy Seaborn shapely statsmodels
+```  
 
 ## Acknowledgments
 
